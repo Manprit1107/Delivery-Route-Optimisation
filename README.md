@@ -44,13 +44,7 @@ Incorporate traffic and real-time constraints
 Scale to larger fleets and dynamic routing
 Integrate demand forecasting for end-to-end optimization
 📁 Project Structure
-delivery-route-optimization/
-│
-├── data/
-│   └── delivery_project_data.csv
-├── notebook/
-│   └── route_optimization.ipynb
-├── README.md
+delivery-route-optimization -> data -> delivery_project_data.csv -> notebook -> route_optimization.ipynb -> README.md
 💡 How to Run
 Clone the repository
 
